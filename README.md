@@ -73,5 +73,5 @@ Si tienes alguna pregunta o sugerencia, no dudes en abrir un "Issue" en este rep
 ---
 
 <p align="center">
-  <img width="738" height="771" alt="Image" src="https://github.com/user-attachments/assets/2c3ac91a-1f8f-4268-be8a-54dcee65b6e2" />
+  <img width="738" height="771" alt="Image" src="https://i.pinimg.com/736x/3b/cf/6f/3bcf6fb3eef53f6047632232cf1ce238.jpg" />
 </p>
